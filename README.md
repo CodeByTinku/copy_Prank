@@ -16,6 +16,10 @@ Just for fun — or maybe to lightly troll those who try to steal your content. 
 3. Try to copy the text on the page.
 4. Paste it somewhere — and enjoy the surprise!
 
+## 🎥 Demo
+Check out the live demo hosted on Vercel:
+👉 [Live Demo on Vercel](https://copy-prank.vercel.app/)
+
 ## ⚠️ Disclaimer
 This is meant for educational or humorous purposes. Don't use this technique on serious or user-facing websites — it can frustrate users and isn't a security measure.
 
